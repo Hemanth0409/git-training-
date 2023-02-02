@@ -1,0 +1,11 @@
+branchin :
+
+git branch <branch name>
+
+git branch 
+
+git checkout <branch name>
+
+git checkout -b <branch name>
+
+git branch -d <branch name>
