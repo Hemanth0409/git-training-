@@ -1,4 +1,0 @@
-revet is used to wher we want to take the pervious commit and add new commit 
-
-
-git revert "commit id"
