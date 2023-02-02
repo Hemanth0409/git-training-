@@ -1,1 +1,3 @@
-stashing is process to store something safely
+stashing is process to store something safely in a hidden place 
+
+stash can be update 
