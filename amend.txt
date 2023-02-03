@@ -1,0 +1,3 @@
+amed is used to re commit the recent commit
+
+git commit --amend -m "msg"
