@@ -1,0 +1,4 @@
+cherry pich is used to pick a paticular file to branch
+git cherry-pick "commit id"
+
+
