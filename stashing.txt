@@ -1,0 +1,5 @@
+stashing is process to store something safely in a hidden place 
+
+stash can be update 
+
+and again it can be pushed
