@@ -1,0 +1,15 @@
+(git diff) is used to track the changes that have not been staged
+
+(git diff --staged )  that have been staged but not commited
+
+
+(git diff head )  track the changes after commiting a file 
+
+
+git diff <commit1> <commit2> track the changes b/w two commits 
+
+
+git diff <branch1> <branch2> diff in 2 branches
+
+
+diff
